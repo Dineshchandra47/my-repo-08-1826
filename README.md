@@ -1,6 +1,6 @@
 
 
-#  MineSweeper
+#  Mine Sweeper
 
 ##  Table of Contents
 
